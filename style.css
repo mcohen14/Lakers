@@ -1,0 +1,60 @@
+table, th, td, button{
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: center;
+  font-family: Roboto Condensed;
+}
+
+th{
+  background-color: #ddd;
+}
+
+h4{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+  text-align: left;
+  font-family: Roboto;
+  color: #7c7c7c;
+  font-size: 10px;
+}
+
+h3{
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-family: Roboto;
+  font-weight: 900;
+  color: #0268d6;
+  text-align: left;
+  font-size: 16px;
+}
+
+.head-table{
+  padding: 0px;
+  background-color: white;
+}
+
+div{
+  width: 100%;
+  height: 200px;
+  background-color: #552583;
+}
+
+img{
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding-left: 50px;
+}
+
+h2{
+  text-align: left;
+  padding: 50px;
+  font-family: Roboto;
+  font-weight: 900;
+  color: white;
+}

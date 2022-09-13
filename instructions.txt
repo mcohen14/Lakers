@@ -1,0 +1,23 @@
+API Project 2022
+
+
+Working with the NBA involves a lot of data and it is up to us to present that data to the fans. 
+
+This task should take 4-5 hours. 
+
+In the folder are 3 JSON files (Points, Rebounds, and Three Pointers). You are to use the data to parse out the top 4 of each stat. 
+Present all 3 sets of data on a webpage using HTML, CSS and Javascript.
+It must show name of stat, player's full name, position, and value (keep under 2 decimals). 
+You're welcome to use compilers/ libraries – note the instructions to dependencies if you use any. 
+Style the page anyway you wish but try to maintain consistency with our site – www.lakers.com
+
+*Bonus point – Have a function that users click to see all the players for a given stat.
+
+*When styling the page, use only web safe fonts. The Lakers' site utilizes a few fonts for emphasis.
+
+*There are misc images included to help support the layout.
+
+*Feel free to use copy you deem is appropriate for the section -- headlines / subtiles/ summary.
+
+*The work will be evaluated on design, code efficiency and code readability. 
+
